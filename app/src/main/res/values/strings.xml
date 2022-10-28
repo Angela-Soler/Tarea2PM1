@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea2PM1</string>
+    <string name="nombre">Ingrese el nombre</string>
+    <string name="apellido">Ingrese el apellido</string>
+    <string name="edad">Ingrese la edad</string>
+    <string name="correo">Ingrese el correo</string>
+    <string name="btnEnviar">Enviar Informacion</string>
+</resources>
